@@ -15,4 +15,3 @@ sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certific
 sudo rm hassio_install
 sudo wget https://raw.githubusercontent.com/home-assistant/hassio-build/master/install/hassio_install
 sudo ./hassio_install -d /config/homeassistant -m raspberrypi3
-
